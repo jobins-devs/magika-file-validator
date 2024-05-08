@@ -1,5 +1,5 @@
 {
-    "name": "sandip-jobin/magika-file-validator",
+    "name": "jobins-devs/magika-file-validator",
     "description": "Custom file type validation for Laravel using magika",
     "version": "1.0.0",
     "type": "library",
@@ -15,7 +15,7 @@
         "magika-file-validator",
         "magika"
     ],
-    "homepage": "https://github.com/sandip-jobin/magika-file-validator",
+    "homepage": "https://github.com/jobins-devs/magika-file-validator",
     "require": {
         "php": "^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0|^11.0"
