@@ -1,7 +1,7 @@
 # Very short description of the package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/sandip-jobin/magika-file-validator.svg?style=flat-square)](https://packagist.org/packages/sandip-jobin/magika-file-validator)
-[![Total Downloads](https://img.shields.io/packagist/dt/sandip-jobin/magika-file-validator.svg?style=flat-square)](https://packagist.org/packages/sandip-jobin/magika-file-validator)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/jobins-devs/magika-file-validator.svg?style=flat-square)](https://packagist.org/packages/jobins-devs/magika-file-validator)
+[![Total Downloads](https://img.shields.io/packagist/dt/jobins-devs/magika-file-validator.svg?style=flat-square)](https://packagist.org/packages/jobins-devs/magika-file-validator)
 
 Custom file type validation for Laravel using magika
 
@@ -10,7 +10,7 @@ Custom file type validation for Laravel using magika
 You can install the package via composer:
 
 ```bash
-composer require sandip-jobin/magika-file-validator
+composer require jobins-devs/magika-file-validator
 ```
 
 ## Usage
